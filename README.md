@@ -4,5 +4,8 @@
   <p>I have left several sections with small bars so that at any time you want to go to any of my social media, you don't have to scroll too much!</p>
 </header>
 
-
-////README UNDER MAINTENANCE////
+<main>
+  <figure>
+    <img src="https://www.canva.com/design/DAFzLO16tvM/LR7CRkINz68JPJx-AD0dZA/edit?utm_content=DAFzLO16tvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  </figure>
+</main>
