@@ -5,6 +5,8 @@
   </figure>
 </header>
 
+![GitHub followers](https://img.shields.io/github/followers/TropikoW?label=Follow%20me!&logo=github&link=https%3A%2F%2Fwww.chrisandrade.com%2F-left)
+
 
 <main>
   <div>
