@@ -6,7 +6,8 @@
 </header>
 
 <p>Redes sociales</p>
-https://img.shields.io/twitter/follow/Jovanny65142224
+
+[![GitHub followers](https://img.shields.io/github/followers/TropikoW?style=social)](https://github.com/TropikoW)
 
 <main>
   <div>
