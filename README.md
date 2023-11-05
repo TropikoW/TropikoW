@@ -6,6 +6,8 @@
 </header>
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Jovanny65142224)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Jovanny65142224?link=https%3A%2F%2Ftwitter.com%2FJovanny65142224)
+
 
 <main>
   <div>
