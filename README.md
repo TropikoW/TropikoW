@@ -5,8 +5,7 @@
   </figure>
 </header>
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&link=www.linkedin.com%2Fin%2Fjovannyruizlovera)
-https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&link=www.linkedin.com%2Fin%2Fjovannyruizlovera
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tropikow)
 
 <main>
   <div>
