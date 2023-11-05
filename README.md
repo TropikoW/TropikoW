@@ -5,7 +5,7 @@
   </figure>
 </header>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tropikow)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Jovanny65142224)
 
 <main>
   <div>
