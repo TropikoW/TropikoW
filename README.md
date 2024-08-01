@@ -7,7 +7,7 @@
 
 <p>Redes sociales</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/TropikoW?style=social)](https://github.com/TropikoW)
+
 
 <main>
   <div>
