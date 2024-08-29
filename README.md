@@ -14,3 +14,5 @@
 </main>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropikoW&show_icons=true&theme=dark)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TropikoW)](https://github.com/anuraghazra/github-readme-stats)
