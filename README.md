@@ -7,11 +7,10 @@
 
 <p>Redes sociales</p>
 
-
-
 <main>
   <div>
     <p> ⚙ Github Analytics 💻</p>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/tropikow/tropikow/blob/main/README.md)
   </div>
 </main>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropikoW&show_icons=true&theme=dark)
