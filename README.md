@@ -12,7 +12,7 @@
 <main>
   <div>
     <p> ⚙ Github Analytics 💻</p>
-    <script>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tropikow=anuraghazra&hide=contribs,prs)</script>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TropikoW)](https://github.com/anuraghazra/github-readme-stats)
     <figure>      
       <img src="./api(2).svg" alt="github readme stat generator github contribuitions">
       <img src="./api(3).svg" alt="github readme stat generator github languages">
